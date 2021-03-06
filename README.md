@@ -1,7 +1,7 @@
 # LoginInstagram
 
 
-### Pojeto da página inicial do Instagram ministrado pela instrutora Gabriela Pinheiro pela plataforma Dio.
+### Pojeto de recriação da página inicial do Instagram, ministrado pela instrutora Gabriela Pinheiro pela plataforma Dio.
 
 ### Abordado conceito de CSS utilizando o FlexBox e responsividade.
 
