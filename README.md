@@ -1,9 +1,9 @@
 # LoginInstagram
 
 
-### PPojeto ministrado pela instrutora Gabriela Pinheiro pela plataforma Dio.
+### Pojeto ministrado pela instrutora Gabriela Pinheiro pela plataforma Dio.
 
-## Abordado conceito de CSS utilizando o FlexBox e responsividade.
+##3 Abordado conceito de CSS utilizando o FlexBox e responsividade.
 
 
 
