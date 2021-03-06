@@ -1,4 +1,9 @@
-#LoginInstagram
+# LoginInstagram
+
+
+### PPojeto ministrado pela instrutora Gabriela Pinheiro pela plataforma Dio.
+
+## Abordado conceito de CSS utilizando o FlexBox e responsividade.
 
 
 
