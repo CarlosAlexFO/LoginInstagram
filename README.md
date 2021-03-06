@@ -3,7 +3,7 @@
 
 ### Pojeto ministrado pela instrutora Gabriela Pinheiro pela plataforma Dio.
 
-##3 Abordado conceito de CSS utilizando o FlexBox e responsividade.
+### Abordado conceito de CSS utilizando o FlexBox e responsividade.
 
 
 
